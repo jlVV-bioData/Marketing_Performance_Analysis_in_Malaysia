@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ENV_Marketing_Performance_Analysis_in_Malaysia/
 
 # Spyder project settings
 .spyderproject
